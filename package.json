@@ -14,5 +14,13 @@
   "type": "module",
   "workspaces": [
     "src/test_frontend"
-  ]
+  ],
+  "dependencies": {
+    "@dfinity/agent": "^2.3.0",
+    "@dfinity/auth-client": "^2.3.0",
+    "@dfinity/candid": "^2.3.0",
+    "@dfinity/identity": "^2.3.0",
+    "@dfinity/ledger-icp": "^2.6.11",
+    "@dfinity/principal": "^2.3.0"
+  }
 }
