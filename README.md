@@ -1,3 +1,81 @@
+# 🎟️ FestiPass – Decentralized Event Ticketing on ETH
+
+> **Own Your Ticket. Prevent Fraud. Experience Events the Web3 Way.**  
+> FestiPass is a blockchain-based NFT ticketing platform built on **Base Sepolia (Ethereum)** that eliminates scalping, fraud, and excessive fees through decentralized smart contracts.
+
+[![Blockchain](https://img.shields.io/badge/Blockchain-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)]()
+[![Network](https://img.shields.io/badge/Network-Base%20Sepolia-blue?style=for-the-badge)]()
+[![Frontend](https://img.shields.io/badge/Frontend-React-purple?style=for-the-badge&logo=react)]()
+[![Web3](https://img.shields.io/badge/Web3-Ethers.js-orange?style=for-the-badge)]()
+
+---
+
+## 📌 Overview
+
+**FestiPass** is a decentralized event ticketing system that issues tickets as NFTs on the Ethereum network.  
+
+Instead of relying on centralized platforms, FestiPass ensures:
+- Transparent ticket ownership  
+- Reduced fraud  
+- No duplicate tickets  
+- Secure peer-to-peer transfers  
+
+All blockchain interactions are handled directly from the frontend using Web3 integration.
+
+---
+
+## ✨ Key Features
+
+### 🎫 NFT-Based Tickets
+- Each ticket is minted as a unique NFT.
+- Verifiable ownership on-chain.
+- Prevents duplication and fake tickets.
+
+### 🔐 Fraud Prevention
+- Blockchain-secured ticket validation.
+- Immutable smart contract logic.
+
+### 💸 Anti-Scalping Mechanism
+- Smart contract logic to limit unfair reselling.
+- Transparent transaction history.
+
+### 🌐 Fully Frontend-Driven
+- Direct interaction with Ethereum network.
+- No centralized backend required.
+- Wallet-based authentication (e.g., MetaMask).
+
+---
+
+## 🛠️ Tech Stack
+
+- **Blockchain:** Ethereum (Base Sepolia Testnet)
+- **Smart Contracts:** Solidity
+- **Frontend:** React
+- **Web3 Integration:** Ethers.js / Web3.js
+- **Wallet:** MetaMask
+- **Deployment:** Web-based DApp
+
+---
+
+## 🔗 How It Works
+
+1. User connects wallet (MetaMask).
+2. Smart contract mints NFT ticket.
+3. Ticket ownership is recorded on-chain.
+4. User can verify ticket authenticity anytime.
+5. Ticket can be transferred securely via blockchain.
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/FestiPass.git
+cd FestiPass
+
+
+
 # `test`
 
 Welcome to your new `test` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
